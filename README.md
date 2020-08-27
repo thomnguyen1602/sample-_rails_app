@@ -1,1 +1,1 @@
-# sample-_rails_app
+# sample_rails_app
